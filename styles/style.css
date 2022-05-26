@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    margin: auto;
+}
+img {
+    display: block;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+}
+p {
+    line-height: 2;
+    letter-spacing: 2px;
+    padding: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
